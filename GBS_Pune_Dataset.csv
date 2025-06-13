@@ -1,0 +1,226 @@
+Patient_ID,Age,Gender,Area,Onset_Date,Hospitalized,Recovery_Status
+P001,49,F,Viman Nagar,2025-02-17,Yes,Recovered
+P002,64,F,Sinhagad Rd,2025-02-18,No,Recovered
+P003,54,M,Sinhagad Rd,2025-02-20,No,Recovered
+P004,40,F,Sinhagad Rd,2025-02-21,Yes,Hospitalized
+P005,57,M,Viman Nagar,2025-02-16,Yes,Recovered
+P006,29,M,Kharadi,2025-02-26,Yes,Recovered
+P007,56,F,Viman Nagar,2025-02-16,No,Recovered
+P008,27,F,Sinhagad Rd,2025-02-28,No,Hospitalized
+P009,18,F,Kothrud,2025-03-09,Yes,Recovered
+P010,37,F,Sinhagad Rd,2025-02-28,Yes,Recovered
+P011,20,F,Sinhagad Rd,2025-02-21,Yes,Recovered
+P012,55,M,Sinhagad Rd,2025-03-10,No,Recovered
+P013,47,M,Kharadi,2025-03-02,No,Hospitalized
+P014,15,M,Viman Nagar,2025-03-06,Yes,Recovered
+P015,13,M,Sinhagad Rd,2025-02-19,Yes,Recovered
+P016,32,M,Sinhagad Rd,2025-03-12,Yes,Recovered
+P017,61,M,Hadapsar,2025-02-21,Yes,Hospitalized
+P018,61,F,Sinhagad Rd,2025-02-15,No,Recovered
+P019,35,F,Sinhagad Rd,2025-02-25,No,Recovered
+P020,62,M,Kharadi,2025-03-09,Yes,Hospitalized
+P021,72,F,Wakad,2025-03-15,No,Hospitalized
+P022,34,M,Sinhagad Rd,2025-02-21,No,Recovered
+P023,25,F,Sinhagad Rd,2025-03-13,Yes,Recovered
+P024,36,M,Sinhagad Rd,2025-02-27,Yes,Recovered
+P025,40,F,Sinhagad Rd,2025-02-26,No,Hospitalized
+P026,21,M,Wakad,2025-02-27,Yes,Recovered
+P027,51,M,Wakad,2025-02-19,Yes,Recovered
+P028,57,M,Kothrud,2025-02-28,Yes,Recovered
+P029,72,F,Hadapsar,2025-02-15,Yes,Recovered
+P030,59,M,Sinhagad Rd,2025-03-06,No,Hospitalized
+P031,30,F,Sinhagad Rd,2025-02-23,Yes,Recovered
+P032,48,F,Sinhagad Rd,2025-03-10,Yes,Recovered
+P033,57,M,Hadapsar,2025-02-22,No,Recovered
+P034,43,M,Sinhagad Rd,2025-03-13,Yes,Recovered
+P035,47,M,Kharadi,2025-02-19,No,Recovered
+P036,21,M,Viman Nagar,2025-03-06,No,Recovered
+P037,68,F,Sinhagad Rd,2025-03-10,Yes,Recovered
+P038,42,F,Hadapsar,2025-02-23,No,Recovered
+P039,21,F,Kharadi,2025-03-15,No,Hospitalized
+P040,18,M,Kharadi,2025-03-03,No,Hospitalized
+P041,61,M,Kharadi,2025-02-23,No,Recovered
+P042,37,M,Sinhagad Rd,2025-02-19,No,Recovered
+P043,72,F,Sinhagad Rd,2025-02-17,No,Recovered
+P044,62,F,Viman Nagar,2025-03-03,No,Recovered
+P045,22,M,Kharadi,2025-02-18,Yes,Recovered
+P046,61,F,Sinhagad Rd,2025-02-20,No,Recovered
+P047,43,M,Kothrud,2025-02-28,No,Recovered
+P048,34,M,Sinhagad Rd,2025-03-05,Yes,Recovered
+P049,39,M,Viman Nagar,2025-02-26,No,Deceased
+P050,42,F,Sinhagad Rd,2025-03-14,No,Recovered
+P051,43,F,Kothrud,2025-03-14,Yes,Deceased
+P052,68,F,Kharadi,2025-02-23,No,Deceased
+P053,71,M,Sinhagad Rd,2025-03-07,No,Hospitalized
+P054,25,F,Viman Nagar,2025-02-28,No,Recovered
+P055,27,M,Sinhagad Rd,2025-02-28,Yes,Hospitalized
+P056,29,F,Sinhagad Rd,2025-02-22,No,Deceased
+P057,53,M,Sinhagad Rd,2025-02-24,No,Hospitalized
+P058,26,F,Wakad,2025-03-01,Yes,Recovered
+P059,56,F,Sinhagad Rd,2025-02-15,Yes,Recovered
+P060,37,M,Wakad,2025-02-21,No,Recovered
+P061,73,M,Sinhagad Rd,2025-03-03,Yes,Hospitalized
+P062,42,F,Sinhagad Rd,2025-02-26,Yes,Recovered
+P063,62,M,Sinhagad Rd,2025-03-02,No,Deceased
+P064,40,M,Sinhagad Rd,2025-02-19,No,Recovered
+P065,17,M,Wakad,2025-03-09,No,Recovered
+P066,52,F,Sinhagad Rd,2025-03-03,No,Recovered
+P067,13,F,Sinhagad Rd,2025-03-06,Yes,Hospitalized
+P068,65,M,Hadapsar,2025-03-10,No,Recovered
+P069,70,F,Sinhagad Rd,2025-03-10,Yes,Recovered
+P070,58,M,Sinhagad Rd,2025-02-17,Yes,Recovered
+P071,55,M,Sinhagad Rd,2025-03-11,Yes,Hospitalized
+P072,28,M,Sinhagad Rd,2025-03-06,No,Hospitalized
+P073,19,F,Kharadi,2025-03-04,Yes,Deceased
+P074,12,F,Sinhagad Rd,2025-03-01,No,Recovered
+P075,28,F,Kharadi,2025-02-19,No,Recovered
+P076,32,M,Sinhagad Rd,2025-02-23,Yes,Hospitalized
+P077,61,F,Sinhagad Rd,2025-02-26,Yes,Recovered
+P078,13,M,Wakad,2025-02-22,No,Recovered
+P079,33,F,Sinhagad Rd,2025-02-28,Yes,Recovered
+P080,36,M,Sinhagad Rd,2025-02-17,Yes,Recovered
+P081,20,M,Kharadi,2025-02-16,No,Hospitalized
+P082,32,M,Sinhagad Rd,2025-03-05,Yes,Deceased
+P083,71,F,Kothrud,2025-02-16,Yes,Recovered
+P084,70,M,Sinhagad Rd,2025-03-14,No,Recovered
+P085,58,M,Sinhagad Rd,2025-03-15,Yes,Recovered
+P086,53,M,Viman Nagar,2025-03-09,Yes,Recovered
+P087,40,M,Hadapsar,2025-02-16,Yes,Recovered
+P088,35,M,Sinhagad Rd,2025-02-16,Yes,Hospitalized
+P089,10,M,Sinhagad Rd,2025-02-15,No,Recovered
+P090,50,M,Sinhagad Rd,2025-02-24,Yes,Recovered
+P091,32,M,Sinhagad Rd,2025-02-26,No,Hospitalized
+P092,57,F,Hadapsar,2025-02-26,No,Recovered
+P093,34,F,Kothrud,2025-03-10,No,Recovered
+P094,33,F,Sinhagad Rd,2025-03-02,No,Recovered
+P095,75,F,Sinhagad Rd,2025-02-23,No,Recovered
+P096,69,F,Sinhagad Rd,2025-03-01,No,Hospitalized
+P097,51,F,Kothrud,2025-03-15,Yes,Hospitalized
+P098,69,M,Kharadi,2025-03-06,Yes,Recovered
+P099,38,F,Sinhagad Rd,2025-03-09,Yes,Recovered
+P100,39,M,Viman Nagar,2025-03-09,Yes,Recovered
+P101,11,M,Wakad,2025-02-15,No,Recovered
+P102,55,M,Viman Nagar,2025-03-08,No,Recovered
+P103,54,M,Sinhagad Rd,2025-02-17,Yes,Recovered
+P104,61,F,Sinhagad Rd,2025-03-10,Yes,Recovered
+P105,41,M,Hadapsar,2025-02-25,No,Recovered
+P106,70,M,Sinhagad Rd,2025-02-20,No,Hospitalized
+P107,73,M,Kothrud,2025-02-28,No,Recovered
+P108,44,F,Wakad,2025-02-25,No,Recovered
+P109,67,F,Sinhagad Rd,2025-03-11,No,Recovered
+P110,31,M,Sinhagad Rd,2025-02-24,No,Hospitalized
+P111,41,F,Sinhagad Rd,2025-03-12,Yes,Hospitalized
+P112,36,M,Kothrud,2025-03-13,Yes,Hospitalized
+P113,10,F,Hadapsar,2025-03-14,Yes,Hospitalized
+P114,14,M,Sinhagad Rd,2025-03-02,Yes,Hospitalized
+P115,54,F,Sinhagad Rd,2025-03-09,No,Recovered
+P116,51,F,Kothrud,2025-03-06,Yes,Recovered
+P117,52,M,Viman Nagar,2025-02-15,Yes,Recovered
+P118,32,M,Sinhagad Rd,2025-02-19,No,Recovered
+P119,38,M,Viman Nagar,2025-02-23,No,Recovered
+P120,73,M,Kothrud,2025-02-19,No,Recovered
+P121,40,F,Kothrud,2025-03-14,No,Recovered
+P122,57,M,Sinhagad Rd,2025-03-14,Yes,Recovered
+P123,56,F,Viman Nagar,2025-03-01,No,Hospitalized
+P124,75,F,Sinhagad Rd,2025-02-25,Yes,Recovered
+P125,67,M,Kharadi,2025-02-15,No,Hospitalized
+P126,10,F,Sinhagad Rd,2025-03-09,No,Recovered
+P127,16,M,Kharadi,2025-03-15,Yes,Recovered
+P128,24,F,Hadapsar,2025-02-20,No,Hospitalized
+P129,56,F,Kharadi,2025-03-08,No,Recovered
+P130,25,F,Sinhagad Rd,2025-03-03,Yes,Recovered
+P131,64,F,Sinhagad Rd,2025-02-24,No,Recovered
+P132,48,M,Sinhagad Rd,2025-03-12,Yes,Hospitalized
+P133,62,F,Sinhagad Rd,2025-03-12,No,Recovered
+P134,59,M,Hadapsar,2025-02-19,No,Hospitalized
+P135,12,M,Kharadi,2025-03-15,Yes,Recovered
+P136,31,M,Sinhagad Rd,2025-02-25,Yes,Recovered
+P137,33,F,Sinhagad Rd,2025-02-22,Yes,Recovered
+P138,57,F,Sinhagad Rd,2025-03-12,Yes,Recovered
+P139,58,F,Viman Nagar,2025-02-24,No,Recovered
+P140,31,F,Sinhagad Rd,2025-02-21,No,Recovered
+P141,26,F,Wakad,2025-02-26,No,Recovered
+P142,23,M,Hadapsar,2025-03-04,No,Hospitalized
+P143,11,M,Kharadi,2025-03-10,Yes,Recovered
+P144,69,M,Sinhagad Rd,2025-02-26,No,Recovered
+P145,58,M,Sinhagad Rd,2025-02-19,No,Hospitalized
+P146,62,F,Sinhagad Rd,2025-02-23,No,Recovered
+P147,57,M,Sinhagad Rd,2025-02-23,No,Hospitalized
+P148,41,M,Kharadi,2025-03-07,Yes,Recovered
+P149,70,F,Sinhagad Rd,2025-02-23,Yes,Hospitalized
+P150,24,F,Kothrud,2025-02-27,No,Deceased
+P151,33,F,Sinhagad Rd,2025-03-09,Yes,Recovered
+P152,30,F,Sinhagad Rd,2025-03-07,No,Deceased
+P153,24,F,Sinhagad Rd,2025-03-04,No,Recovered
+P154,39,F,Viman Nagar,2025-02-24,No,Recovered
+P155,36,M,Sinhagad Rd,2025-02-23,No,Recovered
+P156,59,F,Sinhagad Rd,2025-02-18,Yes,Recovered
+P157,68,M,Kharadi,2025-03-03,No,Recovered
+P158,10,M,Kharadi,2025-03-08,Yes,Hospitalized
+P159,11,F,Sinhagad Rd,2025-03-08,No,Recovered
+P160,15,F,Kharadi,2025-03-02,Yes,Recovered
+P161,33,F,Kharadi,2025-03-08,No,Recovered
+P162,74,F,Sinhagad Rd,2025-03-06,No,Recovered
+P163,70,M,Wakad,2025-03-14,Yes,Deceased
+P164,34,M,Sinhagad Rd,2025-02-18,No,Hospitalized
+P165,27,M,Hadapsar,2025-02-19,No,Recovered
+P166,75,F,Sinhagad Rd,2025-03-01,No,Hospitalized
+P167,35,F,Sinhagad Rd,2025-02-15,Yes,Recovered
+P168,18,F,Viman Nagar,2025-02-26,Yes,Recovered
+P169,23,F,Sinhagad Rd,2025-03-09,No,Recovered
+P170,60,F,Kharadi,2025-03-13,No,Recovered
+P171,66,F,Viman Nagar,2025-03-02,Yes,Recovered
+P172,39,M,Hadapsar,2025-03-02,No,Deceased
+P173,72,M,Wakad,2025-03-01,Yes,Recovered
+P174,25,M,Sinhagad Rd,2025-02-16,No,Recovered
+P175,14,M,Kothrud,2025-02-22,Yes,Recovered
+P176,21,M,Viman Nagar,2025-02-15,No,Recovered
+P177,18,M,Kothrud,2025-03-05,No,Hospitalized
+P178,34,F,Hadapsar,2025-03-05,Yes,Recovered
+P179,28,M,Sinhagad Rd,2025-02-16,No,Recovered
+P180,54,F,Wakad,2025-03-08,Yes,Deceased
+P181,18,M,Viman Nagar,2025-02-26,Yes,Recovered
+P182,64,F,Viman Nagar,2025-02-20,No,Recovered
+P183,23,F,Sinhagad Rd,2025-02-28,Yes,Recovered
+P184,46,M,Kharadi,2025-03-11,No,Hospitalized
+P185,50,M,Kharadi,2025-02-21,Yes,Hospitalized
+P186,60,M,Hadapsar,2025-03-08,No,Hospitalized
+P187,46,M,Wakad,2025-02-15,Yes,Recovered
+P188,58,M,Sinhagad Rd,2025-02-23,No,Recovered
+P189,16,F,Sinhagad Rd,2025-03-14,Yes,Recovered
+P190,47,M,Viman Nagar,2025-03-09,No,Recovered
+P191,34,M,Sinhagad Rd,2025-03-12,No,Recovered
+P192,60,F,Sinhagad Rd,2025-02-20,Yes,Recovered
+P193,39,F,Hadapsar,2025-02-21,No,Hospitalized
+P194,49,F,Hadapsar,2025-02-23,Yes,Recovered
+P195,75,M,Sinhagad Rd,2025-02-19,No,Recovered
+P196,59,F,Wakad,2025-02-25,No,Recovered
+P197,28,M,Hadapsar,2025-03-07,Yes,Hospitalized
+P198,48,F,Kharadi,2025-03-11,No,Recovered
+P199,14,F,Sinhagad Rd,2025-02-18,Yes,Recovered
+P200,55,F,Sinhagad Rd,2025-02-28,No,Recovered
+P201,38,M,Hadapsar,2025-02-19,No,Recovered
+P202,24,M,Wakad,2025-02-26,No,Recovered
+P203,65,M,Sinhagad Rd,2025-02-16,No,Recovered
+P204,74,F,Hadapsar,2025-02-21,No,Recovered
+P205,47,F,Kothrud,2025-03-09,Yes,Recovered
+P206,59,F,Kothrud,2025-03-06,No,Deceased
+P207,74,M,Sinhagad Rd,2025-02-20,No,Recovered
+P208,25,M,Sinhagad Rd,2025-02-24,Yes,Recovered
+P209,26,M,Sinhagad Rd,2025-03-07,Yes,Recovered
+P210,34,M,Sinhagad Rd,2025-03-06,No,Hospitalized
+P211,47,M,Hadapsar,2025-03-15,No,Deceased
+P212,36,F,Sinhagad Rd,2025-03-07,No,Recovered
+P213,55,M,Viman Nagar,2025-02-25,No,Recovered
+P214,69,M,Sinhagad Rd,2025-03-11,No,Recovered
+P215,69,M,Sinhagad Rd,2025-02-17,Yes,Recovered
+P216,64,F,Sinhagad Rd,2025-03-03,No,Recovered
+P217,62,M,Sinhagad Rd,2025-03-15,No,Hospitalized
+P218,73,F,Sinhagad Rd,2025-03-11,No,Recovered
+P219,40,F,Kharadi,2025-03-07,No,Hospitalized
+P220,68,F,Sinhagad Rd,2025-02-16,Yes,Recovered
+P221,48,M,Sinhagad Rd,2025-02-23,Yes,Recovered
+P222,16,M,Sinhagad Rd,2025-02-20,Yes,Recovered
+P223,39,M,Kharadi,2025-03-04,Yes,Recovered
+P224,75,M,Sinhagad Rd,2025-03-12,Yes,Recovered
+P225,68,M,Sinhagad Rd,2025-03-07,No,Recovered
