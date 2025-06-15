@@ -1,10 +1,10 @@
-# GBS Risk Prediction Model 🧠💉
+# GBS Risk Prediction Model 
 
 This project is a machine learning-based solution designed to predict the risk of **Guillain–Barré Syndrome (GBS)** using healthcare-related data. The goal is to assist in early detection and response, especially during outbreak situations.
 
-## 📁 Project Structure
+ Project Structure
 
-📂 GBS-risk--prediction-model
+ GBS-risk--prediction-model
 ├── data/
 │ └── gbs_dataset.csv # Cleaned dataset used for training
 ├── notebooks/
@@ -16,7 +16,7 @@ This project is a machine learning-based solution designed to predict the risk o
 
 
 
-## 🧪 Technologies Used
+ Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -25,7 +25,7 @@ This project is a machine learning-based solution designed to predict the risk o
 - Jupyter Notebook
 - Flask / Streamlit (for deployment)
 
-## 📊 Features
+ Features
 
 - Data preprocessing and cleaning
 - Feature selection and scaling
@@ -33,7 +33,7 @@ This project is a machine learning-based solution designed to predict the risk o
 - Evaluation metrics (Accuracy, ROC-AUC, etc.)
 - Simple UI for prediction (optional)
 
-## 🚀 Getting Started
+ Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -56,24 +56,24 @@ bash
 Copy
 Edit
 python main.py
-📈 Results
+ Results
 Model Accuracy: ~92%
 
 ROC AUC Score: 0.89
 
 Confusion Matrix and Classification Report included in notebook
 
-🔐 Dataset Source
+ Dataset Source
 The dataset used is based on simulated or publicly available healthcare data and does not violate patient confidentiality.
 
-👩‍💻 Author
+ Author
 Chahat Parihar
-📫 LinkedIn
+ LinkedIn
 
-🌟 Contribute
+ Contribute
 Feel free to fork this project, make improvements, and open a PR!
 
-📜 License
+ License
 This project is licensed under the MIT License. See LICENSE file for details.
 
 yaml
